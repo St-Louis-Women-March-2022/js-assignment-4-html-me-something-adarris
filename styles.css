@@ -1,1 +1,49 @@
 /* Write your CSS here! */
+p {
+    margin-top:auto;
+    margin-bottom: auto;
+    margin-right:auto;
+    margin-left: 20px;
+
+}
+div {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+#mainHeading {
+    color: red;
+    margin-left: 20px;
+}
+h2 {
+    color:darkgoldenrod;
+    margin-left: 20px;
+}
+footer {
+    color: darkgreen;
+}
+body {
+    background-color: bisque;
+    margin: 8px;
+}
+img {
+    margin-left: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#important {
+    color: brown;
+    font-weight: 800;
+}
+#crycry {
+    color: gray;
+    font-weight: lighter;
+    font-size: small;
+}
+.videoDescription {
+    font-size: x-small;
+    color:blueviolet;
+    font:oblique;
+}
+.funParagraph {
+    color:green;
+}
